@@ -7,10 +7,10 @@ Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolu
 
 - Python
 * Pandas
- +-MongoDB
-**-Streamlit**
-**-Plotly**
-**-Tableau**
+-MongoDB
+*Streamlit
+-Plotly
+*Tableau
 
 # Data Collection and Preprocessing
 **MongoDB Data Retrieval**: Acquire the Airbnb dataset from MongoDB for analysis.
