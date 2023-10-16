@@ -5,9 +5,9 @@ Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolu
 
 ## Key Technologies and Skills
 
- -Python
--Pandas
-**-MongoDB**
+- Python
+* Pandas
+ +-MongoDB
 **-Streamlit**
 **-Plotly**
 **-Tableau**
